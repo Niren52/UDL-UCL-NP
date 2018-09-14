@@ -1,0 +1,123 @@
+
+"QS419EW - Position in communal establishment"
+"ONS Crown Copyright Reserved [from Nomis on 17 August 2018]"
+"Population :","All usual residents in communal establishments"
+"Units      :","Persons"
+"Date       :","2011"
+"Rural Urban:","Total"
+
+"postcode areas","All categories: Position in communal establishment","Resident","Staff or owner","Family member or partner of staff or owner"
+
+"AL - St Albans",5374,5048,212,114
+"B - Birmingham",29309,28182,419,708
+"BA - Bath",12690,11800,471,419
+"BB - Blackburn",5437,5050,135,252
+"BD - Bradford",8089,7628,260,201
+"BH - Bournemouth",10001,9094,525,382
+"BL - Bolton",3228,2990,49,189
+"BN - Brighton",17071,15908,671,492
+"BR - Bromley",2101,1811,116,174
+"BS - Bristol",17188,16216,504,468
+"CA - Carlisle",4444,3311,726,407
+"CB - Cambridge",20906,20165,370,371
+"CH - Chester",6361,5825,180,356
+"CM - Chelmsford",6540,5733,399,408
+"CO - Colchester",9357,8871,260,226
+"CR - Croydon",4071,3763,150,158
+"CT - Canterbury",14616,14039,263,314
+"CV - Coventry",17819,16921,452,446
+"CW - Crewe",3608,3305,162,141
+"DA - Dartford",2930,2688,95,147
+"DE - Derby",10178,9497,303,378
+"DH - Durham",9999,9641,113,245
+"DL - Darlington",9505,8905,256,344
+"DN - Doncaster",11674,10902,257,515
+"DT - Dorchester",6748,6121,464,163
+"DY - Dudley",4352,3998,113,241
+"E - London E",8352,8083,136,133
+"EC - London EC",2347,2312,32,3
+"EN - Enfield",2676,2455,62,159
+"EX - Exeter",14060,12728,813,519
+"FY - Blackpool",6248,3916,1392,940
+"GL - Gloucester",11667,10706,613,348
+"GU - Guildford",18935,17621,867,447
+"HA - Harrow",5211,4890,112,209
+"HD - Huddersfield",4341,4170,92,79
+"HG - Harrogate",2945,2547,264,134
+"HP - Hemel Hempstead",7260,6786,195,279
+"HR - Hereford",2730,2270,283,177
+"HU - Hull",8172,7775,131,266
+"HX - Halifax",977,897,33,47
+"IG - Ilford",1865,1751,49,65
+"IP - Ipswich",11873,11146,294,433
+"KT - Kingston upon Thames",8421,7783,371,267
+"L - Liverpool",21043,20441,204,398
+"LA - Lancaster",13498,12007,1044,447
+"LE - Leicester",25828,24981,338,509
+"LN - Lincoln",9456,9019,244,193
+"LS - Leeds",20325,19973,117,235
+"LU - Luton",2465,2303,66,96
+"M - Manchester",30134,29456,298,380
+"ME - Medway",9440,8888,207,345
+"MK - Milton Keynes",7086,6633,207,246
+"N - London N",8542,8120,158,264
+"NE - Newcastle upon Tyne",19739,18539,552,648
+"NG - Nottingham",25521,24910,215,396
+"NN - Northampton",7793,7316,235,242
+"NR - Norwich",14288,13237,534,517
+"NW - London NW",5741,5450,149,142
+"OL - Oldham",4323,4048,104,171
+"OX - Oxford",28293,27270,636,387
+"PE - Peterborough",13139,11644,879,616
+"PL - Plymouth",10356,9358,574,424
+"PO - Portsmouth",17540,15592,1306,642
+"PR - Preston",13090,12392,287,411
+"RG - Reading",14930,13909,610,411
+"RH - Redhill",9839,8828,706,305
+"RM - Romford",3072,2715,172,185
+"S - Sheffield",20388,19607,318,463
+"SE - London SE",14388,13791,266,331
+"SG - Stevenage",4269,3836,222,211
+"SK - Stockport",6073,5434,272,367
+"SL - Slough",5567,5127,276,164
+"SM - Sutton",2899,2669,118,112
+"SN - Swindon",6856,6265,332,259
+"SO - Southampton",17230,16336,493,401
+"SP - Salisbury",8465,8068,202,195
+"SR - Sunderland",3905,3614,100,191
+"SS - Southend-on-Sea",4619,4221,170,228
+"ST - Stoke-on-Trent",13033,12328,313,392
+"SW - London SW",13479,12670,531,278
+"SY - Shrewsbury",10041,9203,549,289
+"TA - Taunton",6774,5596,910,268
+"TD - Galashiels",383,346,18,19
+"TF - Telford",3362,3143,100,119
+"TN - Tonbridge",11619,10564,526,529
+"TQ - Torquay",6234,4907,846,481
+"TR - Truro",5210,4377,539,294
+"TS - Cleveland",8302,7841,117,344
+"TW - Twickenham",7383,7059,184,140
+"UB - Southall",7537,7071,300,166
+"W - London W",8145,7479,464,202
+"WA - Warrington",6507,6086,124,297
+"WC - London WC",5183,5042,105,36
+"WD - Watford",2771,2369,252,150
+"WF - Wakefield",5021,4748,84,189
+"WN - Wigan",2317,2136,41,140
+"WR - Worcester",5513,5093,226,194
+"WS - Walsall",4571,4286,69,216
+"WV - Wolverhampton",6487,6151,120,216
+"YO - York",15766,14140,968,658
+"CF - Cardiff",19453,18627,228,598
+"LD - Llandrindod Wells",955,720,176,59
+"LL - Llandudno",10276,8825,813,638
+"NP - Newport",5467,4903,123,441
+"SA - Swansea",11194,10039,596,559
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas. Some counts will"
+"","be affected, particularly small counts at the lowest geographies"
+"",""
+

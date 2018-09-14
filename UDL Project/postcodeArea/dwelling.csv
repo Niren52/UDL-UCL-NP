@@ -1,0 +1,123 @@
+
+"QS418EW - Dwellings"
+"ONS Crown Copyright Reserved [from Nomis on 17 August 2018]"
+"Population :","All dwellings"
+"Units      :","Dwellings"
+"Date       :","2011"
+"Rural Urban:","Total"
+
+"postcode areas","All categories: Dwelling type","Unshared dwelling","Shared dwelling"
+
+"AL - St Albans",102952,102922,30
+"B - Birmingham",774915,774310,605
+"BA - Bath",191409,191269,140
+"BB - Blackburn",212177,212124,53
+"BD - Bradford",234052,233810,242
+"BH - Bournemouth",255213,254779,434
+"BL - Bolton",166292,166231,61
+"BN - Brighton",368281,367526,755
+"BR - Bromley",128595,128515,80
+"BS - Bristol",410598,410027,571
+"CA - Carlisle",149405,149342,63
+"CB - Cambridge",173458,173340,118
+"CH - Chester",296927,296781,146
+"CM - Chelmsford",279462,279422,40
+"CO - Colchester",186296,186216,80
+"CR - Croydon",162703,162485,218
+"CT - Canterbury",219628,219361,267
+"CV - Coventry",353533,353241,292
+"CW - Crewe",135914,135882,32
+"DA - Dartford",178143,178084,59
+"DE - Derby",320247,320160,87
+"DH - Durham",138176,138167,9
+"DL - Darlington",166128,166083,45
+"DN - Doncaster",332982,332882,100
+"DT - Dorchester",101865,101829,36
+"DY - Dudley",178128,178077,51
+"E - London E",379369,378335,1034
+"EC - London EC",18660,18607,53
+"EN - Enfield",141877,141812,65
+"EX - Exeter",253468,253263,205
+"FY - Blackpool",134692,134509,183
+"GL - Gloucester",272003,271831,172
+"GU - Guildford",299403,299311,92
+"HA - Harrow",174053,173937,116
+"HD - Huddersfield",116566,116484,82
+"HG - Harrogate",62402,62346,56
+"HP - Hemel Hempstead",202424,202350,74
+"HR - Hereford",79590,79556,34
+"HU - Hull",198625,198552,73
+"HX - Halifax",71747,71710,37
+"IG - Ilford",122685,122552,133
+"IP - Ipswich",267412,267322,90
+"KT - Kingston upon Thames",222331,222176,155
+"L - Liverpool",385109,384721,388
+"LA - Lancaster",155619,155520,99
+"LE - Leicester",405498,405250,248
+"LN - Lincoln",133265,133228,37
+"LS - Leeds",342369,342084,285
+"LU - Luton",133165,133070,95
+"M - Manchester",512757,512261,496
+"ME - Medway",255021,254889,132
+"MK - Milton Keynes",211316,211209,107
+"N - London N",352434,350800,1634
+"NE - Newcastle upon Tyne",532656,532570,86
+"NG - Nottingham",512172,511975,197
+"NN - Northampton",282160,282058,102
+"NR - Norwich",334789,334650,139
+"NW - London NW",227002,225920,1082
+"OL - Oldham",195603,195566,37
+"OX - Oxford",251716,251550,166
+"PE - Peterborough",395957,395823,134
+"PL - Plymouth",249979,249759,220
+"PO - Portsmouth",370499,370206,293
+"PR - Preston",229965,229779,186
+"RG - Reading",325451,325276,175
+"RH - Redhill",223606,223529,77
+"RM - Romford",209685,209611,74
+"S - Sheffield",597708,597456,252
+"SE - London SE",421698,420529,1169
+"SG - Stevenage",172365,172338,27
+"SK - Stockport",270871,270800,71
+"SL - Slough",149662,149595,67
+"SM - Sutton",89582,89505,77
+"SN - Swindon",198248,198190,58
+"SO - Southampton",285114,284873,241
+"SP - Salisbury",98821,98789,32
+"SR - Sunderland",112907,112843,64
+"SS - Southend-on-Sea",224043,223903,140
+"ST - Stoke-on-Trent",285541,285452,89
+"SW - London SW",398551,396955,1596
+"SY - Shrewsbury",152707,152635,72
+"TA - Taunton",147375,147313,62
+"TD - Galashiels",9211,9210,1
+"TF - Telford",88344,88335,9
+"TN - Tonbridge",298492,298300,192
+"TQ - Torquay",138818,138666,152
+"TR - Truro",143045,142943,102
+"TS - Cleveland",267389,267288,101
+"TW - Twickenham",198498,198294,204
+"UB - Southall",131419,131336,83
+"W - London W",247971,246630,1341
+"WA - Warrington",271177,271133,44
+"WC - London WC",16965,16867,98
+"WD - Watford",105784,105722,62
+"WF - Wakefield",222962,222879,83
+"WN - Wigan",136294,136267,27
+"WR - Worcester",127952,127889,63
+"WS - Walsall",187572,187516,56
+"WV - Wolverhampton",168439,168345,94
+"YO - York",258994,258797,197
+"CF - Cardiff",439560,439325,235
+"LD - Llandrindod Wells",24338,24329,9
+"LL - Llandudno",253633,253507,126
+"NP - Newport",215581,215509,72
+"SA - Swansea",339670,339527,143
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas. Some counts will"
+"","be affected, particularly small counts at the lowest geographies"
+"",""
+
